@@ -1,6 +1,5 @@
 # TBC
 
-[![Total Downloads](https://poser.pugx.org/zgabievi/TBC/d/total.png)](https://packagist.org/packages/zgabievi/tbc)
 [![License](https://poser.pugx.org/zgabievi/TBC/license)](https://packagist.org/packages/zgabievi/tbc)
 
 TBC Payment System for [Laravel 5.*](http://laravel.com/)
