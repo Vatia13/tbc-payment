@@ -1,8 +1,5 @@
 # TBC
 
-[![TBC](http://i.imgsafe.org/09cb0be.jpg)](https://github.com/zgabievi/TBC)
-
-[![Latest Stable Version](https://poser.pugx.org/zgabievi/TBC/version.png)](https://packagist.org/packages/zgabievi/tbc)
 [![Total Downloads](https://poser.pugx.org/zgabievi/TBC/d/total.png)](https://packagist.org/packages/zgabievi/tbc)
 [![License](https://poser.pugx.org/zgabievi/TBC/license)](https://packagist.org/packages/zgabievi/tbc)
 
@@ -34,13 +31,13 @@ Run composer command in your terminal.
 Open `config/app.php` and find the `providers` key. Add `TBCServiceProvider` to the array.
 
 ```php
-Gabievi\TBC\TBCServiceProvider::class
+Vati\TBC\TBCServiceProvider::class
 ```
 
 Find the `aliases` key and add `Facade` to the array. 
 
 ```php
-'TBC' => Gabievi\TBC\TBCFacade::class
+'TBC' => Vati\TBC\TBCFacade::class
 ```
 
 ## Documentation
