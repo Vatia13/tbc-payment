@@ -32,12 +32,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Gabievi\\TBC\\": "src"
+			"Vati\\TBC\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Gabievi\\TBC\\Test\\": "tests"
+			"Vati\\TBC\\Test\\": "tests"
 		}
 	},
 	"scripts": {
